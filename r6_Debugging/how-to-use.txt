@@ -1,0 +1,1 @@
+Copy these files into your src/app folder and replace your app.component.ts and app.component.html with them!
