@@ -9,3 +9,4 @@ import {ContactListComponent} from './contacts/contact-list.component';
 export class AppComponent {
 
 }
+
